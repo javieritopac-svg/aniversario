@@ -1,0 +1,1 @@
+Reemplaza img/foto1.jpg a foto10.jpg, img/portada.jpg, video/nuestro_video.mp4 y music/cancion.mp3. Luego sube todo a GitHub y activa Pages.
